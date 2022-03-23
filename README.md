@@ -59,6 +59,8 @@ Ashiq Khan
 
 > <a href="https://www.linkedin.com/in/ashiq-khan-412709222" target="_blank">Linkedin</a>
 
+>- My PortFolio-[@Ashiq_Khan](https://new-portfolio-myseyso3g-ashiq352.vercel.app/#//)
+
 Ritu Bankey
 
 > <a href="https://github.com/Ritu1011" target="_blank">Github</a>
